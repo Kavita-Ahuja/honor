@@ -1,2 +1,2 @@
-a=10
-print(a)
+name="Hello from My Git- Kavita Ahuja"
+print(name)
